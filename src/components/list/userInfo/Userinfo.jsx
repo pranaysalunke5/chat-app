@@ -1,10 +1,12 @@
-import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function Userinfo() {
+const List = () => {
   return (
-    <View>
-      <Text>Userinfo</Text>
-    </View>
+    <div>
+      Hii
+      
+    </div>
   )
 }
+
+export default List
