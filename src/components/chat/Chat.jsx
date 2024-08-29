@@ -135,6 +135,7 @@ const Chat = ({ AddedImg }) => {
             id="file"
             style={{ display: "none" }}
             onChange={handleImg}
+            
           />
         </div>
         <input
