@@ -120,6 +120,7 @@ const Chat = ({ AddedImg }) => {
           <div className="message own">
             <div className="texts">
               <img src={imageFile.url} alt="Uploaded" />
+              
             </div>
           </div>
         )}
