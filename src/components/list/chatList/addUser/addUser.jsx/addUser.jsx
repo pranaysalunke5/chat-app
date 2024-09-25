@@ -16,6 +16,7 @@ const AddUser = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(user);
+    
     // You can add form submission logic here
   };
 
