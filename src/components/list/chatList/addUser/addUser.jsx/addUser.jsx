@@ -7,6 +7,7 @@ const AddUser = () => {
     email: '',
     gender: '',
     age: ''
+    
   });
 
   const handleChange = (e) => {
