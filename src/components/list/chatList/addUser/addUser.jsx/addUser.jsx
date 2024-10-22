@@ -6,7 +6,6 @@ const AddUser = () => {
     name: '',
     email: '',
     gender: '',
-    
     age: ''
     
   });
