@@ -1,16 +1,20 @@
-import React from 'react'
+import React from 'react';
+import './ChatList.css'; // Importing the CSS file
 
 const ChatList = () => {
   return (
-    <>
-    <div>
-      HII
+    <div className="chat-list-container">
+      <div className="chat-item">
+        HII
+      </div>
+      <div className="chat-item">
+        {/* Add other chat items here */}
+      </div>
+      <div className="chat-item">
+        {/* Add other chat items here */}
+      </div>
     </div>
-    <div className=""></div>
-    <div className=""></div>
-    </>
+  );
+};
 
-  )
-}
-
-export default ChatList
+export default ChatList;
